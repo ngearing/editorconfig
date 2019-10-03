@@ -1,0 +1,2 @@
+# editorconfig
+Opinionated .editorconfig defaults
